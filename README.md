@@ -43,11 +43,11 @@ The Employee Task Tracker is an internal tool designed for HR managers and team 
 
 ---
 ## Screenshots
-<img width="1892" height="905" alt="image" src="https://github.com/user-attachments/assets/4911b36e-a8b7-4072-b88d-1b5b1e4c3315" />
+<img width="1892" height="905" alt="image" src="https://github.com/user-attachments/assets/32806f2f-28e9-4e2b-a973-d01af8f96811" />
 
-<img width="1904" height="908" alt="image" src="https://github.com/user-attachments/assets/24d8b6e3-8879-417d-b41c-a383e6b4c4d0" />
+<img width="1904" height="908" alt="image" src="https://github.com/user-attachments/assets/717edd34-c36b-41bc-8f33-b86a105fe22e" />
 
-<img width="1900" height="899" alt="image" src="https://github.com/user-attachments/assets/306b05d9-0c85-4915-9259-b7961005e854" />
+<img width="1900" height="899" alt="image" src="https://github.com/user-attachments/assets/4a02653f-29e9-4162-9399-ac34a27a295b" />
 
 
 ## Design & User Experience
